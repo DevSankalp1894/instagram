@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "caption": "hello",
+      "id": "2",
+      "image_url": "https://i.ibb.co/G3f16jf/Screenshot-7.png"
+    },
+    {
+      "caption": "",
+      "id": "4juNYPg"
+    },
+    {
+      "caption": "",
+      "id": "sZzWvgI"
+    },
+    {
+      "caption": "",
+      "id": "3ptD9F1"
+    },
+    {
+      "caption": "maiyya",
+      "id": "4",
+      "image_url": "https://i.ibb.co/KK1fRPk/Screenshot-2.png"
+    },
+    {
+      "caption": "sankalp",
+      "id": "6",
+      "image_url": "https://i.ibb.co/4Sr4fqd/Screenshot-12.png"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
